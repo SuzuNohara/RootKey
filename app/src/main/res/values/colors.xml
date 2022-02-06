@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimary">#303957</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
 
-    <color name="key_back_color">#dddddd</color>
+    <color name="key_back_color">#303957</color>
     <color name="key_divider_color">#ffffff</color>
-    <color name="key_pressed_color">#aaaaaa</color>
+    <color name="key_pressed_color">#586385</color>
 </resources>
